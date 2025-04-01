@@ -1,0 +1,157 @@
+I"�<h1 id="-wireframes-del-módulo-malkion--gestión-de-misiones">📐 Wireframes del Módulo Malkion – Gestión de Misiones</h1>
+
+<p>A continuación se listan los wireframes diseñados para representar las pantallas clave del módulo personalizado de Malkion en Odoo.</p>
+
+<hr />
+
+<p><a id="01-panel-principal"></a></p>
+
+<h2 id="01-01-panel-principal">01. 01 panel principal</h2>
+
+<p><img src="/assets/images/wireframes/01_panel_principal.png" class="wireframe-img" alt="01 panel principal" /></p>
+
+<p><a href="#02-listado-misiones">Siguiente ➡</a></p>
+
+<hr />
+
+<p><a id="02-listado-misiones"></a></p>
+
+<h2 id="02-02-listado-misiones">02. 02 listado misiones</h2>
+
+<p><img src="/assets/images/wireframes/02_listado_misiones.png" class="wireframe-img" alt="02 listado misiones" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="#01-panel-principal">⬅ Anterior</a></td>
+      <td><a href="#03-formulario-creacion-mision">Siguiente ➡</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><a id="03-formulario-creacion-mision"></a></p>
+
+<h2 id="03-03-formulario-creacion-mision">03. 03 formulario creacion mision</h2>
+
+<p><img src="/assets/images/wireframes/03_formulario_creacion_mision.png" class="wireframe-img" alt="03 formulario creacion mision" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="#02-listado-misiones">⬅ Anterior</a></td>
+      <td><a href="#04-aprobacion-mision">Siguiente ➡</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><a id="04-aprobacion-mision"></a></p>
+
+<h2 id="04-04-aprobacion-mision">04. 04 aprobacion mision</h2>
+
+<p><img src="/assets/images/wireframes/04_aprobacion_mision.png" class="wireframe-img" alt="04 aprobacion mision" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="#03-formulario-creacion-mision">⬅ Anterior</a></td>
+      <td><a href="#05-plantillas-mision">Siguiente ➡</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><a id="05-plantillas-mision"></a></p>
+
+<h2 id="05-05-plantillas-mision">05. 05 plantillas mision</h2>
+
+<p><img src="/assets/images/wireframes/05_plantillas_mision.png" class="wireframe-img" alt="05 plantillas mision" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="#04-aprobacion-mision">⬅ Anterior</a></td>
+      <td><a href="#06-asignacion-manual-recursos">Siguiente ➡</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><a id="06-asignacion-manual-recursos"></a></p>
+
+<h2 id="06-06-asignacion-manual-recursos">06. 06 asignacion manual recursos</h2>
+
+<p><img src="/assets/images/wireframes/06_asignacion_manual_recursos.png" class="wireframe-img" alt="06 asignacion manual recursos" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="#05-plantillas-mision">⬅ Anterior</a></td>
+      <td><a href="#07-edicion-generica">Siguiente ➡</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><a id="07-edicion-generica"></a></p>
+
+<h2 id="07-07-edicion-generica">07. 07 edicion generica</h2>
+
+<p><img src="/assets/images/wireframes/07_edicion_generica.png" class="wireframe-img" alt="07 edicion generica" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="#06-asignacion-manual-recursos">⬅ Anterior</a></td>
+      <td><a href="#08-puntos-y-centros">Siguiente ➡</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><a id="08-puntos-y-centros"></a></p>
+
+<h2 id="08-08-puntos-y-centros">08. 08 puntos y centros</h2>
+
+<p><img src="/assets/images/wireframes/08_puntos_y_centros.png" class="wireframe-img" alt="08 puntos y centros" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="#07-edicion-generica">⬅ Anterior</a></td>
+      <td><a href="#09-informes">Siguiente ➡</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><a id="09-informes"></a></p>
+
+<h2 id="09-09-informes">09. 09 informes</h2>
+
+<p><img src="/assets/images/wireframes/09_informes.png" class="wireframe-img" alt="09 informes" /></p>
+
+<p><a href="#08-puntos-y-centros">⬅ Anterior</a></p>
+
+<hr />
+
+<style>
+.wireframe-img {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+}
+</style>
+
+:ET

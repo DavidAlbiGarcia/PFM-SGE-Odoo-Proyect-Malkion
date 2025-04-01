@@ -1,0 +1,45 @@
+I"{<h1 id="-documentación-del-módulo-malkion">📘 Documentación del Módulo Malkion</h1>
+
+<p>Bienvenido a la documentación visual del módulo Malkion. Aquí encontrarás los distintos recursos gráficos organizados por sección.</p>
+
+<hr />
+
+<h2 id="️-wireframes">🖼️ Wireframes</h2>
+
+<p>Navega por las pantallas diseñadas para el módulo:</p>
+
+<ul>
+  <li><a href="wireframes#01-panel-principal">01. Panel principal</a></li>
+  <li><a href="wireframes#02-listado-de-misiones">02. Listado de misiones</a></li>
+  <li><a href="wireframes#03-formulario-creacion-de-mision">03. Formulario de creación de misión</a></li>
+  <li><a href="wireframes#04-aprobacion-de-mision">04. Aprobación de misión</a></li>
+  <li><a href="wireframes#05-plantillas-mision">05. Plantillas de misión</a></li>
+  <li><a href="wireframes#06-asignacion-manual-recursos">06. Asignación manual de recursos</a></li>
+  <li><a href="wireframes#07-edicion-generica">07. Edición genérica</a></li>
+  <li><a href="wireframes#08-puntos-y-centros">08. Puntos y centros</a></li>
+  <li><a href="wireframes#09-informes">09. Informes</a></li>
+</ul>
+
+<hr />
+
+<h2 id="-diagramas-de-flujo">🔁 Diagramas de Flujo</h2>
+
+<p>Visualiza los procesos principales del sistema:</p>
+
+<ul>
+  <li><a href="assets/images/diagramas/flujo_creacion_mision_solicitud.png">Creación automática de misión</a></li>
+  <li><a href="assets/images/diagramas/flujo_aprobacion_mision.png">Aprobación y modificación de misión</a></li>
+  <li><a href="assets/images/diagramas/flujo_asignacion_recursos.png">Asignación automática y manual de recursos</a></li>
+  <li><a href="assets/images/diagramas/flujo_ejecucion_mision.png">Ejecución y finalización de misión</a></li>
+</ul>
+
+<hr />
+
+<h2 id="-modelo-entidad-relación">🧩 Modelo Entidad-Relación</h2>
+
+<ul>
+  <li><a href="assets/images/modelo_er_malkion_completo.png">Modelo E-R completo</a></li>
+</ul>
+
+<hr />
+:ET
