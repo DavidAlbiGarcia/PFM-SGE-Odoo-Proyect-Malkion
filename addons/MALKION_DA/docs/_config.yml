@@ -30,7 +30,8 @@ twitter_username: malkion technologies
 github_username:  Asclepio Proyect
 
 # Build settings
-theme: minima
+# theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
