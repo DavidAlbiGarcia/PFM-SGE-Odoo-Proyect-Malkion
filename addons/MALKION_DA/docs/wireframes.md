@@ -24,7 +24,7 @@ A continuación se listan los wireframes diseñados para representar las pantall
 
 ## 02. 02 listado misiones
 
-<img src="PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/02_listado_misiones.png" class="wireframe-img" alt="02 listado misiones">
+<img src="/PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/02_listado_misiones.png" class="wireframe-img" alt="02 listado misiones">
 
 [⬅ Anterior](#01-panel-principal) | [Siguiente ➡](#03-formulario-creacion-mision)
 
@@ -34,7 +34,7 @@ A continuación se listan los wireframes diseñados para representar las pantall
 
 ## 03. 03 formulario creacion mision
 
-<img src="PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/03_formulario_creacion_mision.png" class="wireframe-img" alt="03 formulario creacion mision">
+<img src="/PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/03_formulario_creacion_mision.png" class="wireframe-img" alt="03 formulario creacion mision">
 
 [⬅ Anterior](#02-listado-misiones) | [Siguiente ➡](#04-aprobacion-mision)
 
@@ -44,7 +44,7 @@ A continuación se listan los wireframes diseñados para representar las pantall
 
 ## 04. 04 aprobacion mision
 
-<img src="PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/04_aprobacion_mision.png" class="wireframe-img" alt="04 aprobacion mision">
+<img src="/PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/04_aprobacion_mision.png" class="wireframe-img" alt="04 aprobacion mision">
 
 [⬅ Anterior](#03-formulario-creacion-mision) | [Siguiente ➡](#05-plantillas-mision)
 
@@ -54,7 +54,7 @@ A continuación se listan los wireframes diseñados para representar las pantall
 
 ## 05. 05 plantillas mision
 
-<img src="PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/05_plantillas_mision.png" class="wireframe-img" alt="05 plantillas mision">
+<img src="/PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/05_plantillas_mision.png" class="wireframe-img" alt="05 plantillas mision">
 
 [⬅ Anterior](#04-aprobacion-mision) | [Siguiente ➡](#06-asignacion-manual-recursos)
 
@@ -64,7 +64,7 @@ A continuación se listan los wireframes diseñados para representar las pantall
 
 ## 06. 06 asignacion manual recursos
 
-<img src="PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/06_asignacion_manual_recursos.png" class="wireframe-img" alt="06 asignacion manual recursos">
+<img src="/PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/06_asignacion_manual_recursos.png" class="wireframe-img" alt="06 asignacion manual recursos">
 
 [⬅ Anterior](#05-plantillas-mision) | [Siguiente ➡](#07-edicion-generica)
 
@@ -74,7 +74,7 @@ A continuación se listan los wireframes diseñados para representar las pantall
 
 ## 07. 07 edicion generica
 
-<img src="PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/07_edicion_generica.png" class="wireframe-img" alt="07 edicion generica">
+<img src="/PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/07_edicion_generica.png" class="wireframe-img" alt="07 edicion generica">
 
 [⬅ Anterior](#06-asignacion-manual-recursos) | [Siguiente ➡](#08-puntos-y-centros)
 
@@ -84,7 +84,7 @@ A continuación se listan los wireframes diseñados para representar las pantall
 
 ## 08. 08 puntos y centros
 
-<img src="PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/08_puntos_y_centros.png" class="wireframe-img" alt="08 puntos y centros">
+<img src="/PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/08_puntos_y_centros.png" class="wireframe-img" alt="08 puntos y centros">
 
 [⬅ Anterior](#07-edicion-generica) | [Siguiente ➡](#09-informes)
 
@@ -94,7 +94,7 @@ A continuación se listan los wireframes diseñados para representar las pantall
 
 ## 09. 09 informes
 
-<img src="PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/09_informes.png" class="wireframe-img" alt="09 informes">
+<img src="/PFM-SGE-Odoo-Proyect-Malkion/assets/images/wireframes/09_informes.png" class="wireframe-img" alt="09 informes">
 
 [⬅ Anterior](#08-puntos-y-centros)
 
